@@ -1,4 +1,4 @@
-# DockerServiceWeb UberGallery
+# Docker Service Web UberGallery
 
 [Docker](http://docker.com) 
 [UberGallery](https://www.ubergallery.net/)
