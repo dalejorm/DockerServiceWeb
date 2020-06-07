@@ -52,6 +52,8 @@ UberGallery2| 8080 | When using `UberGallery2 run`, visit `http://localhost:8080
 
 Volume          | Description
 ----------------|-------------
-`var/www/html/UberGallery/gallery-images/| The location of the Gallery of UberGallery2 application root.
+var/www/html/UberGallery/gallery-images/| The location of the Gallery of UberGallery2 application root.
+
+NOTE: Use images .PNG
 
 
