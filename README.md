@@ -13,7 +13,7 @@
 
 ### Create Image
 
-Pull DockerFile from the Project repositoryn, afther execute:
+Pull DockerFile from the Project repositoryn, after execute:
 
     docker build -t gallery:1.0 .
 
