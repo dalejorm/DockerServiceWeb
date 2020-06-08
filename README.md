@@ -14,7 +14,7 @@
 
 ### Create Image
 
-Pull DockerFile from the Project repositoryn, after execute:
+Pull DockerFile from the Project repository, after execute:
 
     docker build -t gallery:1.0 .
 
@@ -28,7 +28,7 @@ Run the image for compile container, binding associated ports:
 
 Service     | Port | Usage
 ------------|------|------
-UberGallery1| 8080 | When using `UberGallery1 run`, visit `http://localhost:8080` in your browser
+UberGallery1| 8080 | When using `UberGallery1 run`, visit `http://localhost:8080/UberGallery` in your browser
 
 ## Example 2
 
@@ -47,7 +47,7 @@ Run the image for compile container, binding associated ports and asociate volum
 
 Service     | Port | Usage
 ------------|------|------
-UberGallery2| 8080 | When using `UberGallery2 run`, visit `http://localhost:8080` in your browser
+UberGallery2| 8080 | When using `UberGallery2 run`, visit `http://localhost:8080/UberGallery` in your browser
 
 ## Volumes
 
